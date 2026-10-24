@@ -323,7 +323,7 @@ export function renderContact() {
             <div class="contact-actions-box">
               <h3 style="font-size: var(--text-lg); font-weight: 600; color: var(--color-text-primary);">Professional Inquiries</h3>
               <p class="contact-note">
-                To protect against automated crawlers and harvesting, direct outreach is coordinated through LinkedIn.
+                Please reach out on LinkedIn where I'd be happy to connect and provide my resume and other forms of contact.
               </p>
 
               <div>
