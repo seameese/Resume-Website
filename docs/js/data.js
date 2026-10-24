@@ -11,7 +11,7 @@ export const RESUME_DATA = {
 
   profile: {
     name: "Seamus R. Howrigan",
-    primaryTitle: "R&D & Test Engineer",
+    primaryTitle: "R&D Test Engineer",
     currentRole: "R&D Machinery Lab Technician",
     currentCompany: "Flexaseal Engineered Seals and Systems",
     location: "Colchester, VT",
@@ -37,7 +37,7 @@ export const RESUME_DATA = {
   experience: [
     {
       id: "flexaseal-tech",
-      role: "R&D Machinery Lab Technician",
+      role: "R&D Lab Technician",
       organization: "Flexaseal Engineered Seals and Systems",
       location: "Williston, VT",
       period: "June 2026 – Present",
@@ -197,6 +197,11 @@ export const RESUME_DATA = {
       { name: "Excel", category: "Analysis & Cataloging" }
     ],
     technicalDomains: [
+      {
+        title: "Computational Fluid Dynamics",
+        detail: "Devloping CFD skills through UVM coursework, including fluid flow modeling, computational mesh generation, numerical simulation, and post-processing of simulation results.",
+        sourceReference: "Classroom Experience"
+      },
       {
         title: "Dynamic & Static Seal Testing",
         detail: "Product qualification, performance analysis, testing-to-limits, cartridge assembly, and high-pressure nitrogen & water integrity tests.",
