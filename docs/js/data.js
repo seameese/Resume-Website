@@ -27,6 +27,7 @@ export const RESUME_DATA = {
       location: "Burlington, VT",
       graduationDate: "May 2026",
       relevantCoursework: [
+        "Computational Fluid Dynamics",
         "Compressible Flow",
         "Control Systems",
         "Mechatronics"
