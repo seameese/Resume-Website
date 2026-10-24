@@ -183,6 +183,7 @@ export const RESUME_DATA = {
     sectionTitle: "Software and Tools",
     note: "Explicitly listed under SKILLS in resume",
     tools: [
+      { name: "ANSYS Fluent", category: "Analysis & Computation" },
       { name: "NASTRAN", category: "Analysis & Simulation" },
       { name: "MATLAB", category: "Analysis & Computation" },
       { name: "Simulink", category: "Analysis & Computation" },
