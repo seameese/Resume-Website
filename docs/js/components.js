@@ -91,7 +91,7 @@ export function renderHero() {
         </div>
 
         <aside class="hero-aside" aria-label="Professional Details">
-          <h2 class="aside-title">Verified Resume Record</h2>
+          <h2 class="aside-title">Some Basic Info</h2>
           <div class="meta-list">
             <div class="meta-item">
               <span class="meta-label">Location</span>
