@@ -111,12 +111,13 @@ export function renderHero() {
                 ${profile.linkedinDisplay} ${ICONS.external}
               </a>
             </div>
+<!--
           </div>
-
           <div class="meta-provenance-tag">
             <strong>Verified Record:</strong><br>
             Content derived strictly from original engineering credentials. Direct contact managed via verified professional network.
           </div>
+--!>
         </aside>
       </div>
     </section>
