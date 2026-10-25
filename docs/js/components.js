@@ -162,7 +162,7 @@ export function renderExperience() {
     <section id="experience" class="section" aria-labelledby="experience-heading">
       <div class="container">
         <div class="section-header">
-          <span class="section-label">Career Chronology</span>
+          <span class="section-label">Career (Almost) Chronology</span>
           <h2 id="experience-heading" class="section-title">Professional Experience</h2>
           <p class="section-description">
             Hands-on R&amp;D engineering, aerospace flight testing, instructional leadership, and lifelong operational responsibilities.
